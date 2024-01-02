@@ -1,0 +1,1 @@
+messageArea.append("Server :" + msg + "\n");
